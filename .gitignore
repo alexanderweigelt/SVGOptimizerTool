@@ -1,0 +1,4 @@
+/src/*.svg
+/dist/*.svg
+/node_modules/
+/.idea
